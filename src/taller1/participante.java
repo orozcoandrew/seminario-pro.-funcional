@@ -5,7 +5,7 @@ package taller1;
 import javax.swing.JOptionPane;
 
 
-public class participante {
+public class  participante {
     private final int numeroAleatorio;
     private String nombre;
     private String apellido;

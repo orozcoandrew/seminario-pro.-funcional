@@ -4,7 +4,7 @@ package taller1;
 import javax.swing.JOptionPane;
 
 
-public class docente extends participante{
+public class docente extends participante {
 
     private String materia;
 
